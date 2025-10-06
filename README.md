@@ -17,8 +17,6 @@ The migration plan outlines a high-level approach to transitioning from existing
 <details>
   <summary>Table of Contents</summary>
   
-## Table of Contents
-
 - [Prerequisites](#prerequisites)
   - [Kick-off Meeting](#kick-off-meeting)
   - [License Keys](#license-keys)
