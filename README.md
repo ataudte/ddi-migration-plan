@@ -466,7 +466,7 @@ General Agenda for Global DDI Solution Kickoff Meeting.
 -   VPN networks <-> systems to be built
 -   client networks <-> systems to be built
 
-## (export_ms-dns-dhcp.ps1)[https://github.com/ataudte/ddi-helpers/tree/main/export_ms-dns-dhcp]
+## [export_ms-dns-dhcp.ps1](https://github.com/ataudte/ddi-helpers/tree/main/export_ms-dns-dhcp)
 
 -   Windows Server (2016/2019 or newer) with DNS/DHCP roles
 -   PowerShell 5.0 or later
