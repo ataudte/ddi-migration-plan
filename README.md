@@ -23,11 +23,11 @@ This repository is a reference plan, not a mandatory runbook template. Enterpris
 
 This repository is one part of a three document lifecycle:
 
-1. [`ddi-workshop`](/ataudte/ddi-workshop) establishes the current state, business outcomes, target operating model, target architecture and data authority model.
-2. [`ddi-questionnaire`](/ataudte/ddi-questionnaire) evaluates candidate solutions, validates critical workflows and records accepted conditions.
+1. [`ddi-workshop`](../../../ddi-workshop) establishes the current state, business outcomes, target operating model, target architecture and data authority model.
+2. [`ddi-questionnaire`](../../../ddi-questionnaire) evaluates candidate solutions, validates critical workflows and records accepted conditions.
 3. **`ddi-migration-plan`** executes the approved design and selected solution through controlled migration waves.
 
-### Minimum Input From [`ddi-questionnaire`](/ataudte/ddi-questionnaire)
+### Minimum Input From [`ddi-questionnaire`](../../../ddi-questionnaire)
 
 The migration plan can be drafted while evaluation is in progress, but Gate 0 cannot pass without the following minimum input package.
 
@@ -46,7 +46,7 @@ The migration plan can be drafted while evaluation is in progress, but Gate 0 ca
 | Delivery assumptions | Vendor and customer responsibilities, lead times, services, infrastructure and prerequisites |
 | Decision record | Accepted solution, rejected alternatives, unresolved decisions and review triggers |
 
-### Supporting Input From [`ddi-workshop`](/ataudte/ddi-workshop)
+### Supporting Input From [`ddi-workshop`](../../../ddi-workshop)
 
 The following workshop artifacts remain authoritative supporting inputs:
 
